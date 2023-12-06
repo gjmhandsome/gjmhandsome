@@ -23,6 +23,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#2754](https://github.com/umijs/qiankun/pull/2754#issuecomment-1822834704) in [umijs/qiankun](https://github.com/umijs/qiankun)
+2. 🗣 Commented on [#2754](https://github.com/umijs/qiankun/pull/2754#issuecomment-1821992344) in [umijs/qiankun](https://github.com/umijs/qiankun)
+3. 🗣 Commented on [#2754](https://github.com/umijs/qiankun/pull/2754#issuecomment-1807559389) in [umijs/qiankun](https://github.com/umijs/qiankun)
+4. ❌ Reopened PR [#2754](https://github.com/umijs/qiankun/pull/2754) in [umijs/qiankun](https://github.com/umijs/qiankun)
+5. 🗣 Commented on [#2754](https://github.com/umijs/qiankun/pull/2754#issuecomment-1777590223) in [umijs/qiankun](https://github.com/umijs/qiankun)
+6. ❌ Closed PR [#2754](https://github.com/umijs/qiankun/pull/2754) in [umijs/qiankun](https://github.com/umijs/qiankun)
+7. 🗣 Commented on [#2754](https://github.com/umijs/qiankun/pull/2754#issuecomment-1777589910) in [umijs/qiankun](https://github.com/umijs/qiankun)
+8. ❗ Opened issue [#2](https://github.com/gjmhandsome/waterfall/issues/2) in [gjmhandsome/waterfall](https://github.com/gjmhandsome/waterfall)
+9. 🗣 Commented on [#2686](https://github.com/umijs/qiankun/issues/2686#issuecomment-1775694235) in [umijs/qiankun](https://github.com/umijs/qiankun)
+10. 💪 Opened PR [#2754](https://github.com/umijs/qiankun/pull/2754) in [umijs/qiankun](https://github.com/umijs/qiankun)
 <!--END_SECTION:activity-->
 
 ---
