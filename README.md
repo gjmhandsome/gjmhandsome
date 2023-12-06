@@ -6,14 +6,12 @@
 - 📫 How to reach me: Leave me an issue
 - ⚡ Fun fact: I am a humorous person
 
-<div style="display: flex; justify-content: space-between"> 
-    <a href="https://github.com/gjmhandsome">
-        <img  height="200" src="https://github-readme-stats.vercel.app/api?username=gjmhandsome&show_icons=true&theme=radical" />
-    </a>
-    <a href="https://github.com/gjmhandsome">
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjmhandsome&layout=compact&theme=radical" />
-    </a>
-</div>
+<a href="https://github.com/gjmhandsome">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=gjmhandsome&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/gjmhandsome">
+<img   width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjmhandsome&layout=compact&theme=radical" />
+</a>
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gjmhandsome&theme=onedark)](https://github.com/gjmhandsome)
