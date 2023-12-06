@@ -1,18 +1,9 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gjmhandsome&show_icons=true&theme=radical&bg_color=135deg,#c850c0,#4158d0)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gjmhandsome&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Welcome to my github👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gjmhandsome&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gjmhandsome&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**gjmhandsome/gjmhandsome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at a financial company
+- 🌱 I’m currently learning the Rust language
+- 👯 I'm looking for partners to learn together
+- 📫 How to reach me: Leave me an issue
+- ⚡ Fun fact: I am a humorous person
