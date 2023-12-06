@@ -7,12 +7,8 @@
 - ⚡ Fun fact: I am a humorous person
 
 <div style="display: flex; justify-content: space-between"> 
-    <a href="https://github.com/gjmhandsome">
-        <img  height="200" src="https://github-readme-stats.vercel.app/api?username=gjmhandsome&show_icons=true&theme=radical" />
-    </a>
-    <a href="https://github.com/gjmhandsome">
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjmhandsome&layout=compact&theme=radical" />
-    </a>
+    <img  height="200" src="https://github-readme-stats.vercel.app/api?username=gjmhandsome&show_icons=true&theme=radical" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjmhandsome&layout=compact&theme=radical" />
 </div>
 <br>
 
