@@ -18,7 +18,7 @@
 </div>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gjmhandsome&theme=onedark)](https://github.com/gjmhandsome)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gjmhandsome&theme=radical)](https://github.com/gjmhandsome)
 
 ---
 
