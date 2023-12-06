@@ -17,3 +17,12 @@
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gjmhandsome&theme=onedark)](https://github.com/gjmhandsome)
+
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
