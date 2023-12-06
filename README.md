@@ -7,7 +7,6 @@
 - ⚡ Fun fact: I am a humorous person
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gjmhandsome&show_icons=true&theme=radical)](https://github.com/gjmhandsome)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gjmhandsome&layout=compact&theme=radical)](https://github.com/gjmhandsome)
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=gjmhandsome&theme=onedark)](https://github.com/gjmhandsome)
