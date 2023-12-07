@@ -1,8 +1,8 @@
-### I'm 萌神，Welcome to my github👋
+### I’m galen，Welcome to my github👋
 
-- 🔭 I’m currently working at a financial company
+- 🔭 I’m an architect for a financial company
 - 🌱 I’m currently learning the Rust language
-- 👯 I'm looking for partners to learn together
+- 👯 I’m looking for partners to learn together
 - 📫 How to reach me: Leave me an issue
 - ⚡ Fun fact: I am a humorous person
 
