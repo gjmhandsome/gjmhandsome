@@ -10,7 +10,7 @@
 
 <div style="display: flex;justify-content: space-between"> 
     <a href="https://github.com/gjmhandsome">
-        <img width="48%" height="200" src="https://github-readme-stats.vercel.app/api?username=gjmhandsome&show_icons=true&theme=radical" />
+        <img width="48%" height="200" src="https://github-readme-stats.vercel.app/api?username=gjmhandsome2&show_icons=true&theme=radical" />
     </a>
     <a href="https://github.com/gjmhandsome">
         <img width="48%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjmhandsome&layout=compact&theme=radical" />
@@ -40,4 +40,4 @@
 ---
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=gjmhandsome&repo=qiankun&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=gjmhandsome&repo=my-mini-vue&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=gjmhandsome&repo=my-mini-vue2&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
